@@ -1,0 +1,23 @@
+ i.icon{
+    font-size: 1.5em;
+}
+.navbar{
+ margin-bottom: 7em;
+}
+.ui.fixed.menu, .ui[class*="top fixed"].menu{
+ background-color: #00112D;
+}
+#delete{
+ display: inline;
+}
+.header.first{
+ color: white;
+}
+
+body{
+background: #000000;  
+background: -webkit-linear-gradient(to right, #434343, #000000);
+background: linear-gradient(to right, #434343, #000000); 
+}
+
+
